@@ -1,6 +1,6 @@
 # EDA-on-Haberman-Survival-Data-Set
 
-Dataset Description: The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.  
+**Dataset Description:** The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.  
 
   * Number of Attributes: 4 (including the class attribute) 
   * Attribute Information:  
@@ -13,7 +13,7 @@ Dataset Description: The dataset contains cases from a study that was conducted 
            1 = the patient survived 5 years or longer                        
            2 = the patient died within 5 year  
 
-Objective / Tasks: Perform an "Exploratory Data Analysis (EDA)" for the "Haberman's Survival Dataset" to determine the best feature of the 2 classifications that can be used to predict the survival status of a new patient with the given below sections:       
+**Objective / Tasks:** Perform an "Exploratory Data Analysis (EDA)" for the "Haberman's Survival Dataset" to determine the best feature of the 2 classifications that can be used to predict the survival status of a new patient with the given below sections:       
 
     1. Import Libraries      
     2. Load Dataset      
@@ -26,4 +26,4 @@ Objective / Tasks: Perform an "Exploratory Data Analysis (EDA)" for the "Haberma
     9. Conclusions      
     10. References  
   
-Kaggle Dataset:   https://www.kaggle.com/gilsousa/habermans-survival-data-set/code
+**Kaggle Dataset:**   https://www.kaggle.com/gilsousa/habermans-survival-data-set/code
